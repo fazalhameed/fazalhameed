@@ -37,6 +37,11 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 <img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" width="45" height="40" style="border-radius:50%" />
+<img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco" width="45" height="40" style="border-radius:50%" />
+<img src="https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white" alt="Zigbee" width="45" height="40" style="border-radius:50%" />
+
 </p>
 
 <h3 align="left">Stars</h3>
