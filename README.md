@@ -45,18 +45,21 @@
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazalhameed&langs_count=8&theme=default" alt=fazalhameed />
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fazalhameed&show_icons=true&locale=en&theme=" alt="fazalhameed" /></p>
-
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fazalhameed&theme=" alt="fazalhameed" /></p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/fazalhameed">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazalhameed&theme=2077" height="180em" />
+  
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fazalhameed&theme=2077" height="180em" />
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazalhameed&theme=2077" height="180em" />
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fazalhameed&theme=2077" height="180em" />
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazalhameed&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
