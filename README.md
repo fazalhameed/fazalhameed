@@ -8,7 +8,7 @@
 
 💼 Currently, I am focusing my efforts on developing cutting-edge embedded systems and IoT applications. My areas of expertise include:
 
--Microcontroller programming (8051, Arduino, STM32, AVR, ARM, etc.)
+-Microcontroller programming (8051, Arduino, STM32,ESP32, AVR, ARM, etc.)
 
 -Sensor integration and data acquisition
 
