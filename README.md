@@ -7,19 +7,19 @@
 
 💼 Currently, I am focusing my efforts on developing cutting-edge embedded systems and IoT applications.My areas of expertise include:
 
--Microcontroller programming (8051, Arduino, STM32, ESP32, AVR, ARM, etc.)
+Microcontroller programming (8051, Arduino, STM32, ESP32, AVR, ARM, etc.)
 
--Sensor integration and data acquisition
+Sensor integration and data acquisition
 
--Wireless communication protocols (Bluetooth, Wi-Fi, Zigbee, etc.)
+Wireless communication protocols (Bluetooth, Wi-Fi, Zigbee, etc.)
 
--Real-time operating systems (RTOS) for embedded devices
+Real-time operating systems (RTOS) for embedded devices
 
--Firmware development and debugging
+Firmware development and debugging
 
--IoT platform development and integration.
+IoT platform development and integration.
 
-- 📫 How to reach me **fazalhameed1219@gmail.com**
+📫 How to reach me **fazalhameed1219@gmail.com**
 
 
 </div><h3 align="left">Connect with me:</h3>
