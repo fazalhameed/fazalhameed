@@ -17,9 +17,9 @@ src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425ad
 📫 **How to reach me**: [fazalhameed1219@gmail.com](mailto:fazalhameed1219@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/@FaxalHameed" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" width="100" height="32" alt="Twitter"/></a>
+
 <a href="https://www.linkedin.com/in/Fazal-Hameed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" width="100" height="32"></a>
-<a href="mailto:fazalhameed1219@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=plastic&logo=gmail&logoColor=white" width="100" height="32"></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
