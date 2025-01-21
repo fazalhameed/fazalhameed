@@ -48,12 +48,13 @@
 
 <h3 align="center">Statistics</h3>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazalhameed&theme=2077" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fazalhameed&theme=2077" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazalhameed&theme=2077" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fazalhameed&theme=2077" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazalhameed&theme=2077" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazalhameed&theme=2077" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fazalhameed&theme=2077" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazalhameed&theme=2077" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fazalhameed&theme=2077" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazalhameed&theme=2077" height="180em" />
 </p>
+
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
