@@ -39,7 +39,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fazalhameed&show_icons=true&locale=en&theme=default" alt="GitHub Stats"/>
 </p>
 <p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fazalhameed&theme=default" alt="Streak Stats"/>
+
 </p>
 
 <h3 align="center">⚡ Activity Graph:</h3>
