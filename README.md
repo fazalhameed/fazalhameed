@@ -7,7 +7,7 @@
 - Developing cutting-edge embedded systems and IoT applications.
 - Microcontroller programming (8051, Arduino, STM32, ESP32, AVR, ARM, etc.)
 - Sensor integration and data acquisition
-- Wireless communication protocols (Bluetooth, Wi-Fi, Zigbee, etc.)
+- Wireless communication protocols (Bluetooth, Wi-Fi, Zigbee,Lora etc.)
 - Real-time operating systems (RTOS) for embedded devices
 - Firmware development and debugging
 - IoT platform development and integration
