@@ -42,8 +42,8 @@
 
 </p>
 
-<h3 align="center">⚡ Activity Graph:</h3>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=fazalhameed&theme=default"/>
+//<h3 align="center">⚡ Activity Graph:</h3>
+//<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=fazalhameed&theme=default"/>
 
 <h3 align="center">Statistics</h3>
 <p align="center">
