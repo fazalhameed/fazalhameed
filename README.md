@@ -33,6 +33,9 @@
 <img src="https://img.shields.io/badge/zigbee-%23EB0443.svg?style=plastic&logo=zigbee&logoColor=white" alt="Zigbee" width="45" height="40" style="border-radius:50%" />
 </p>
 
+<h3 align="center">⚡ Activity Graph:</h3>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=fazalhameed&theme=default"/>
+
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazalhameed&langs_count=8&theme=default" alt="Top Languages"/>
